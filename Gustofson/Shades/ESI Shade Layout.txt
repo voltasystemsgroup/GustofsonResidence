@@ -1,0 +1,49 @@
+port 02 
+1 guest left open
+1 guest left close
+2 guest right open
+2 guest right close
+3 gameroom left open
+3 gamerroom left close
+4 rigth open game room
+4 right close
+5 kitchen left open
+5 kitchen left	
+6 kitchen right up
+6 kitchen right down
+9 kitchen sink left up
+9 kitchen sink left down
+10 kitchen sink right up
+10 kitchen sink right down
+11 S patio left up
+11 S patio left down
+12 S patio right up
+12 S patio right down
+
+
+
+
+
+port 3
+1 strip left open
+1 strip left close
+2 strip right open
+2 strip right close
+3 N patio left open
+3 N patio left close
+4 N patio right open
+4 N patio right close 
+5 master left slider open
+5 master left slider close
+7 master right slider L up
+7 Master right slider L close
+8 master right slider R up
+8 Master right slider R down
+9 master window L up
+9 master window L down
+10 master window R up
+10 Master Window R down
+11 Dressing up
+11 dressing down
+12 master bath up
+12 master bath down

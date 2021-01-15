@@ -1,0 +1,25 @@
+Crosspoint listing for C:\Users\Mike\DOCUME~1\Crestron\Projects\Systems\GUSTOF~3\Output\Programs\CRESTR~1\Gustofson v3.SMW
+
+Note:  Crosspoint symbols with  or  set to 0d are not routeable.
+
+OR                                                                                                  
+====================================================================================================
+S-2 in macro S-1.1.1.1 (Module File SB System v2.0 (cm).cmc)                                        0
+S-4.2 in macro S-1.1.3.1.4.1 (Module File CSR Media Room v1.1 (cm).cmc)                             51011
+S-4.2 in macro S-1.1.3.1.3.1 (Module File CSR Media Room v1.1 (cm).cmc)                             51018
+S-4.2 in macro S-1.1.3.1.2.1 (Module File CSR Media Room v1.1 (cm).cmc)                             51019
+S-4.2 in macro S-1.1.3.1.5.1 (Module File CSR Media Room v1.1 (cm).cmc)                             51030
+S-4.2 in macro S-1.1.3.1.6.1 (Module File CSR Media Room v1.1 (cm).cmc)                             51032
+S-4.2 in macro S-1.1.3.1.1.1 (Module File CSR Media Room v1.1 (cm).cmc)                             51045
+
+NOR                                                                                                 
+====================================================================================================
+S-1 in macro S-1.1.1.1 (Module File SB System v2.0 (cm).cmc)                                        0
+S-2.1 in macro S-1.2.2.1.1.1 (Module File CSR Media Touch Screen Interface v1.1 (cm).cmc)           51012
+S-5.1 in macro S-1.1.3.6.1 (Module File CSR Media Generic Receiver and Display Hardware In          51015
+terface v1.1 (cm).cmc)                                                                              
+S-5.1 in macro S-1.1.3.11.1 (Module File CSR Media Generic Receiver and Display Hardware I          51024
+nterface v1.1 (cm).cmc)                                                                             
+S-5.1 in macro S-1.1.3.7.1 (Module File CSR Media Generic Receiver and Display Hardware In          51026
+terface v1.1 (cm).cmc)                                                                              
+

@@ -1,0 +1,4 @@
+<Device Model="AV3" Name="AV3 with card cage">
+   <Network Type="Cresnet" Id="04"/>
+   <Network Type="Ethernet" Id="05"/>
+</Device>

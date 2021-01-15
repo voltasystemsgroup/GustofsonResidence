@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lang locale="en_US" name="English" variant="English">
+	<bundle id="crestron:tvpresets">
+		<copy id="addItemText" ><![CDATA[ADD ITEM]]></copy>	
+		<copy id="editIconText" ><![CDATA[EDIT ICON]]></copy>
+		<copy id="defaultNameText" ><![CDATA[NAME]]></copy>
+		<copy id="menuBarButton0" ><![CDATA[Move]]></copy>	
+		<copy id="menuBarButton1" ><![CDATA[Edit]]></copy>	
+		<copy id="menuBarButton2" ><![CDATA[Add]]></copy>	
+		<copy id="menuBarButton3" ><![CDATA[Delete]]></copy>	
+		<copy id="menuBarButton4" ><![CDATA[Settings]]></copy>	
+		<copy id="tvpresetSettingsButtonSave" ><![CDATA[Save]]></copy>	
+		<copy id="tvpresetSettingsButtonCancel" ><![CDATA[Cancel]]></copy>	
+		<copy id="tvpresetSettingsButtonExit" ><![CDATA[Exit]]></copy>	
+		<copy id="settingsLabelSettings" ><![CDATA[SETTINGS]]></copy>	
+		<copy id="settingsLabelSyncPresets" ><![CDATA[SYNC PRESETS]]></copy>	
+		<copy id="settingsLabelProviderConfigLoc" ><![CDATA[Provider]]></copy>	
+		<copy id="settingsLabelSort" ><![CDATA[Sort by]]></copy>	
+		<copy id="settingsLabelSettings" ><![CDATA[SETTINGS]]></copy>	
+		<copy id="settingsLabelSyncPresets" ><![CDATA[SYNC PRESETS]]></copy>	
+		<copy id="settingsLabelProviderConfigLoc" ><![CDATA[PROVIDER CONFIG LOCATION]]></copy>	
+		<copy id="settingsLabelPinRequiredOn" ><![CDATA[PIN: On]]></copy>
+		<copy id="settingsLabelPinRequiredOff" ><![CDATA[PIN: Off]]></copy>
+		<copy id="settingsLabelSetPin" ><![CDATA[Set PIN]]></copy>
+		<copy id="settingsLabelUnsorted" ><![CDATA[Unsorted]]></copy>
+		<copy id="settingsLabelChName" ><![CDATA[Ch. Name]]></copy>
+		<copy id="settingsLabelChNum" ><![CDATA[Ch. Number]]></copy>
+		<copy id="settingsLabelLang" ><![CDATA[Language]]></copy>
+		<copy id="promptListing" ><![CDATA[Search for the desired channel]]></copy>
+		<copy id="promptIcon" ><![CDATA[Search for the desired icon]]></copy>
+		<copy id="promptNoResults" ><![CDATA[No results found]]></copy>
+		<copy id="titleEditPreset" ><![CDATA[EDIT PRESET]]></copy>
+		<copy id="titleAddPreset" ><![CDATA[ADD PRESET]]></copy>
+		<copy id="buttonList" ><![CDATA[button]]></copy>
+		<copy id="iconList" ><![CDATA[icon]]></copy>
+		<copy id="listingPrompt" ><![CDATA[Type in first few letters of channel you are looking for]]></copy>
+		<copy id="iconPrompt" ><![CDATA[Search for the desired icon]]></copy>
+		<copy id="noResults" ><![CDATA[No results found]]></copy>
+		<copy id="editIconTitle" ><![CDATA[EDIT ICON]]></copy>
+		<copy id="modalEnterPin" ><![CDATA[ENTER PIN]]></copy>
+		<copy id="modalSetPin" ><![CDATA[SET PIN]]></copy>
+		<copy id="modalInvalidPin" ><![CDATA[INVALID PIN!]]></copy>
+		<copy id="modalOkButton" ><![CDATA[OK]]></copy>
+		<copy id="keypadClear" ><![CDATA[Clear]]></copy>
+		<copy id="keypadEnter" ><![CDATA[Enter]]></copy>
+	</bundle>
+</lang>

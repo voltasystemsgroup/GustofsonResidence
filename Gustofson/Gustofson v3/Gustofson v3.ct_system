@@ -1,0 +1,54 @@
+{
+  "_serializationVersion": 1,
+  "_serializedObject": "{
+  \"$id\": \"1\",
+  \"_name\": \"Gustofson v3\",
+  \"_id\": \"7D36346467438AF3\",
+  \"_metadata\": {
+    \"$id\": \"2\",
+    \"_systemMetadataVersion\": 2,
+    \"_systemMetadataCompatibleVersion\": 2,
+    \"_customer\": {
+      \"$id\": \"3\",
+      \"_country\": \"United States\"
+    },
+    \"_geographicLocation\": {
+      \"$id\": \"4\",
+      \"_countryOrRegion\": \"United States\",
+      \"_stateOrProvince\": \"Nevada\",
+      \"_city\": \"Las Vegas\",
+      \"_useCustomLocation\": false,
+      \"_latitudeDegrees\": 36,
+      \"_latitudeMinutes\": 5,
+      \"_latitudeDirection\": 1,
+      \"_longitudeDegrees\": 115,
+      \"_longitudeMinutes\": 10,
+      \"_longitudeDirection\": 0,
+      \"_gmtMinutesOffset\": -480,
+      \"_adjustForDST\": true
+    },
+    \"_internalImages\": [],
+    \"_metadataVersion\": 2,
+    \"_metadataCompatibleVersion\": 2,
+    \"_category\": \"\",
+    \"_creationDateTime\": \"2017-05-31T08:09:51.9516199-07:00\",
+    \"_lastOpenedDateTime\": \"2017-10-10T22:32:43.2633628-07:00\",
+    \"_lastSavedDateTime\": \"2017-10-10T10:30:29.0006315-07:00\",
+    \"_createdByApp\": \"Crestron Studio\",
+    \"_createdByAppVersion\": \"1.61.11.0\",
+    \"_lastSavedByApp\": \"Crestron Studio\",
+    \"_lastSavedByAppVersion\": \"1.70.265.0\",
+    \"_wasClosedCleanly\": true,
+    \"_lastKnownState\": 0,
+    \"_inUseByProcessId\": 0,
+    \"_sharedFolderPathKey\": \"\",
+    \"_contentsSummary\": \"Master Sheers ((Generic) Shades (2 Pulsed Relays))\\r\\nKitchen Shades  (Hunter Douglas Window Fashions)\\r\\nMaster Bed Shades  (Hunter Douglas Window Fashions)\\r\\nMaster Drapes ((Generic) Shades (2 Pulsed Relays))\\r\\nSony-TV (Sony XBR7 Series)\\r\\nGameroom Drapes ((Generic) Shades (2 Pulsed Relays))\\r\\nCEN-ERFGW-POE (Crestron CEN-ERFGW-POE)\\r\\nSonos Connect (Sonos Sonos Connect)\\r\\nLiving Shades (Hunter Douglas Window Fashions)\\r\\nSony-TV (2) (Sony DISCRETE CODES (LED))\\r\\nKlipsh Soundbar ((Generic) Klipsh Soundbar)\\r\\nTSR-302 (Crestron TSR-302)\\r\\nMaster Bath Shades  (Hunter Douglas Window Fashions)\\r\\nSouth Wing ESI Shades (Hunter Douglas ESI RP60)\\r\\nNorth Wing ESI Shades (Hunter Douglas ESI RP60)\\r\\nLiving Drapes ((Generic) Shades (2 Pulsed Relays))\\r\\nGuest Room Shades ((Generic) Shades (2 Pulsed Relays))\\r\\nGame Room Shades (Hunter Douglas Window Fashions)\\r\\nAV3 with card cage (Crestron AV3 with card cage)\\r\\nC3RY-16 (Crestron C3RY-16)\\r\\nC2N-AMP-6x100 (Crestron C2N-AMP-6x100)\\r\\nCox Cable (Pace XiD – PXD01ANI)\\r\\n\"
+  },
+  \"_projectHandleVersion\": 0,
+  \"_projectHandleCompatibleVersion\": 0
+}",
+  "_options": {
+    "_isStringFormatted": true,
+    "_flags": 0
+  }
+}
